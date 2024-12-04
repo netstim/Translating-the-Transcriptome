@@ -4,7 +4,7 @@
 
 This repository contains the code and the preprocessed dataset for the preprint **Neudorfer et al. 2024**: *"Translating the Transcriptome: A Connectomics Approach for Gene-Network Mapping and Clinical Application.”* 
 
-This repository can be used to generate gene-network maps, disease-network maps, and to replicate the voxel-wise linear modeling analyses that relate gene expression data to functional connectivity patterns. Additionally, the code supports the calculation of correlations to compare disease and lesion network maps and associate clinical outcomes with DBS connectivity profiles.
+This repository can be used to generate gene-network maps, disease-network maps, and replicate the voxel-wise linear modeling analyses that relate gene expression data to functional connectivity patterns. Additionally, the code supports the calculation of correlations to compare disease and lesion network maps and associate clinical outcomes with DBS connectivity profiles.
 
 ---
 

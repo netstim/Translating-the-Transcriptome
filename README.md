@@ -59,7 +59,7 @@ You can run Lead-DBS by typing `lead dbs` into the MATLAB prompt, which will ope
 
 ## Minimal Dataset
 
-The minimal dataset **Translating_The_Transcriptome** required to run the repository can be downloaded from Zenodo.
+The minimal dataset **Translating_The_Transcriptome** required to run the repository can be downloaded from Zenodo (doi:10.5281/zenodo.14279062).
 
 - **Lead Connectome Mapper** was used to generate functional connectivity fingerprint maps. A detailed description and user guide for the Lead Connectome Mapper can be obtained from the [Lead-DBS User Guide](https://netstim.gitbook.io/leaddbs).
   

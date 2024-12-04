@@ -77,8 +77,8 @@ The minimal dataset **Translating_The_Transcriptome** required to run the reposi
 - **Note**: Patient imaging data cannot be publicly shared to comply with current data protection regulations. These are available from the principal investigators of the collecting sites upon reasonable request within the framework of a data-sharing agreement.
 
 For inquiries or further information, please contact:
-- **C.N.**: [cneudorfer@mgh.harvard.edu](mailto:cneudorfer@mgh.harvard.edu)
-- **A.H.**: [ahorn1@bwh.harvard.edu](mailto:ahorn1@bwh.harvard.edu)
+- **Clemens Neudorfer**: [cneudorfer@mgh.harvard.edu](mailto:cneudorfer@mgh.harvard.edu)
+- **Andreas Horn**: [ahorn1@bwh.harvard.edu](mailto:ahorn1@bwh.harvard.edu)
 
 ---
 
